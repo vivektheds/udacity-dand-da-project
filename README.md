@@ -7,3 +7,4 @@ course. For the project, we were asked to analyse a dataset with statistical
 analysis and using Python's NumPy and Pandas libraries as tools for working with
 the data. The dataset used is the Titanic dataset from [Kaggle](https://www.kaggle.com/c/titanic/data).
 
+The project report can be viewed here: https://github.com/enyeartj/udacity-dand-da-project/blob/master/p2_titanic_data.ipynb
